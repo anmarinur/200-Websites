@@ -1,4 +1,4 @@
-# 200-Websites
+# 200 Websites
 
 I'm making 200 websites based on and following the Jennifer Dewalt's project: https://jenniferdewalt.com/index.html
 

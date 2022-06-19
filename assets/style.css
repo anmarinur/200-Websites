@@ -106,5 +106,18 @@ a:hover {
   }
 }
 
+#bodyAbout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+#titleAbout {
+  font-size: 30px;
+  text-align: center;
+}
+
+#pAbout {
+  width: 80%;
+}
 
